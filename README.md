@@ -70,8 +70,8 @@ board around and secure the sides of the poled with some more solder.
 
 ## Firing it up
 
-And that's it. Now it just needs to be tested and of course add the requested
-lucky roll...
+And that's it. Now it just needs to be tested, cleaned and of course do the the
+requested lucky roll...
 
 ![Rolling](pics/P1060894.JPG)
 ![And the Lucky roll is ... 2](pics/P1060898.JPG)
